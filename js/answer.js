@@ -249,7 +249,7 @@ console.log(myArray);
  
  */
 
-
+ console.log('#####Exercise 2.3 #####');
 myArray.splice(3, 2, `MEGA`);
 
 console.log(myArray);
